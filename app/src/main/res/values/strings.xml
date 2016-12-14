@@ -1,0 +1,7 @@
+<resources>
+        <string name="app_name">WordCount</string>
+        <string name="cc_app_name">Word Count Magic</string>
+        <string name="question">Type A Sentance</string>
+        <string name="shake">COUNT</string>
+        <string name="answer_activity_title">Pow, here is your answer...</string>
+</resources>
